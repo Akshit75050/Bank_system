@@ -1,6 +1,6 @@
 # 🏦 Java Banking System with MySQL and JavaFX
 
-A simple Java project built by Tanya Pal for demonstrating JDBC, OOP, and JavaFX skills.
+A simple Java project built  for demonstrating JDBC, OOP, and JavaFX skills.
 
 ## Features
 - Create new bank accounts
