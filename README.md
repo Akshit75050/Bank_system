@@ -20,6 +20,5 @@ A simple Java project built by Tanya Pal for demonstrating JDBC, OOP, and JavaFX
    java -cp '.:lib/mysql-connector-j-9.5.0.jar:bin' MainFX
    ```
 
-## Author
-**Tanya Pal**
+
 
